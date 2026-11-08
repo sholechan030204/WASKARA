@@ -1,10 +1,6 @@
-# WASKARA
+## WASKARA Demo
 
-## Demo Project
-
-File and materials for the WASKARA project demo are available here:
-
-[Open WASKARA demo folder on Google Drive](https://drive.google.com/drive/folders/1FZgkCW1C0AOPNAx4HyUwg1nzvsfAn8cA?usp=sharing)
+Project demo files and materials: [Open the WASKARA demo folder on Google Drive](https://drive.google.com/drive/folders/1FZgkCW1C0AOPNAx4HyUwg1nzvsfAn8cA?usp=sharing)
 
 ---
 
@@ -19,30 +15,35 @@ File and materials for the WASKARA project demo are available here:
 
 ## About Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel provides routing, dependency injection, database tools, queues, and many other features for building web applications.
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable experience to be truly fulfilling. Laravel takes the pain out of development and gives you tools to build your application with ease. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel is accessible, powerful, and provides tools required for large, robust applications.
+
+Laravel provides routing, dependency injection, database tools, queues, caching, and many other features for building web applications.
 
 ## Learning Laravel
 
-- [Laravel documentation](https://laravel.com/docs)
-- [Laracasts](https://laracasts.com)
-- [Laravel Learn](https://laravel.com/learn)
+Laravel has extensive [documentation](https://laravel.com/docs) and a video tutorial library. [Laracasts](https://laracasts.com) contains thousands of tutorials for Laravel, PHP, and JavaScript. You can also learn the framework at [Laravel Learn](https://laravel.com/learn).
 
 ## Agentic Development
 
-Laravel's predictable structure and conventions make it suitable for AI coding agents. Install Laravel Boost with:
+Laravel's predictable structure and conventions make it suitable for AI coding agents like Claude Code, Cursor, and GitHub Copilot. Install [Laravel Boost](https://laravel.com/docs/ai) to enhance your development workflow:
 
 ```bash
 composer require laravel/boost --dev
+
 php artisan boost:install
 ```
 
 ## Contributing
 
-See the [Laravel contribution guide](https://laravel.com/docs/contributions).
+Thank you for considering contributing to the Laravel framework. The contribution guide is available in the [Laravel documentation](https://laravel.com/docs/contributions).
+
+## Code of Conduct
+
+To help keep the Laravel community welcoming, please review and follow the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
 ## Security Vulnerabilities
 
-Report Laravel security vulnerabilities to [Taylor Otwell](mailto:taylor@laravel.com).
+If you discover a security vulnerability in Laravel, please email Taylor Otwell at [taylor@laravel.com](mailto:taylor@laravel.com). Security vulnerabilities are addressed promptly.
 
 ## License
 
