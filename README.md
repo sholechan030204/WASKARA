@@ -1,6 +1,6 @@
 ## WASKARA Demo
 
-Project demo files and materials: [Open the WASKARA demo folder on Google Drive](https://drive.google.com/drive/folders/1FZgkCW1C0AOPNAx4HyUwg1nzvsfAn8cA?usp=sharing)
+[Open the WASKARA project demo folder on Google Drive](https://drive.google.com/drive/folders/1FZgkCW1C0AOPNAx4HyUwg1nzvsfAn8cA?usp=sharing)
 
 ---
 
@@ -15,23 +15,31 @@ Project demo files and materials: [Open the WASKARA demo folder on Google Drive]
 
 ## About Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable experience to be truly fulfilling. Laravel takes the pain out of development and gives you tools to build your application with ease. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable experience to be truly fulfilling. Laravel provides tools required to build large, robust applications. The framework is accessible and powerful, with a focus on developer experience.
 
-Laravel provides routing, dependency injection, database tools, queues, caching, and many other features for building web applications.
+- [Simple, fast routing engine](https://laravel.com/docs/routing).
+- [Powerful dependency injection container](https://laravel.com/docs/container).
+- Multiple back-ends for [session and cache storage](https://laravel.com/docs/session).
+- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
+- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
+- Robust [background job processing](https://laravel.com/docs/queues).
+- Real-time [event broadcasting](https://laravel.com/docs/broadcasting).
 
 ## Learning Laravel
 
-Laravel has extensive [documentation](https://laravel.com/docs) and a video tutorial library. [Laracasts](https://laracasts.com) contains thousands of tutorials for Laravel, PHP, and JavaScript. You can also learn the framework at [Laravel Learn](https://laravel.com/learn).
+Laravel has extensive [documentation](https://laravel.com/docs) and a video tutorial library. [Laracasts](https://laracasts.com) contains thousands of tutorials for Laravel, PHP, and JavaScript.
 
 ## Agentic Development
 
-Laravel's predictable structure and conventions make it suitable for AI coding agents like Claude Code, Cursor, and GitHub Copilot. Install [Laravel Boost](https://laravel.com/docs/ai) to enhance your development workflow:
+Laravel's predictable structure makes it suitable for AI coding agents like Claude Code, Cursor, and GitHub Copilot. Install [Laravel Boost](https://laravel.com/docs/ai) to enhance your workflow:
 
 ```bash
 composer require laravel/boost --dev
 
 php artisan boost:install
 ```
+
+Laravel Boost provides additional tools and skills for developing with Laravel.
 
 ## Contributing
 
